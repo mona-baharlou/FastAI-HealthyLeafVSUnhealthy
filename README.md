@@ -23,3 +23,5 @@ After training, the model can provide a prediction on a new leaf image:
 > This leaf is: diseased leaf.
 > Probability it's a healthy leaf: 0.0123
 > Probability it's a diseased leaf: 0.9877
+
+![](https://github.com/mona-baharlou/FastAI-HealthyLeafVSUnhealthy/blob/main/HLeaf_DLeaf.png)
